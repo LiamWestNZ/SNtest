@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Jellybeans">8179bd5e2f0e6010aea9d5f62799b6e0</sc_cat_item>
+        <sc_category display_value="View Candy">747d79522f4e6010aea9d5f62799b699</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-02 22:26:28</sys_created_on>
+        <sys_id>d0ce7d922f4e6010aea9d5f62799b62c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Candy.Jellybeans</sys_name>
+        <sys_package display_value="Purchase Candy" source="x_578749_purchase">1142f90e2f426010aea9d5f62799b6ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Candy">1142f90e2f426010aea9d5f62799b6ac</sys_scope>
+        <sys_update_name>sc_cat_item_category_d0ce7d922f4e6010aea9d5f62799b62c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-02 22:26:28</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

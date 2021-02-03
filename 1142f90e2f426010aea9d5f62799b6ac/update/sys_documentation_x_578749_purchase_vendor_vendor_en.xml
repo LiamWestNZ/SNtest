@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="vendor" label="Vendor" language="en" table="x_578749_purchase_vendor">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>vendor</element>
+            <help/>
+            <hint/>
+            <label>Vendor</label>
+            <language>en</language>
+            <name>x_578749_purchase_vendor</name>
+            <plural>Vendors</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-02 02:58:12</sys_created_on>
+            <sys_id>3653394e2f426010aea9d5f62799b602</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Vendor</sys_name>
+            <sys_package display_value="Purchase Candy" source="x_578749_purchase">1142f90e2f426010aea9d5f62799b6ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Purchase Candy">1142f90e2f426010aea9d5f62799b6ac</sys_scope>
+            <sys_update_name>sys_documentation_x_578749_purchase_vendor_vendor_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-02 02:58:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

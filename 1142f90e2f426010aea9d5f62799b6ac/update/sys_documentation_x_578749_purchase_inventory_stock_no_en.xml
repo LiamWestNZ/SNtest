@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="stock_no" label="Stock No." language="en" table="x_578749_purchase_inventory">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>stock_no</element>
+            <help/>
+            <hint/>
+            <label>Stock No.</label>
+            <language>en</language>
+            <name>x_578749_purchase_inventory</name>
+            <plural>Stock No.s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-02 04:29:51</sys_created_on>
+            <sys_id>dd580eca2f826010aea9d5f62799b6c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Stock No.</sys_name>
+            <sys_package display_value="Purchase Candy" source="x_578749_purchase">1142f90e2f426010aea9d5f62799b6ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Purchase Candy">1142f90e2f426010aea9d5f62799b6ac</sys_scope>
+            <sys_update_name>sys_documentation_x_578749_purchase_inventory_stock_no_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-02 04:29:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

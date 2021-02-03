@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Product" language="en" table="x_578749_purchase_inventory">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Product</label>
+            <language>en</language>
+            <name>x_578749_purchase_inventory</name>
+            <plural>Products</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-02 02:56:13</sys_created_on>
+            <sys_id>35e2b14e2f426010aea9d5f62799b679</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Product</sys_name>
+            <sys_package display_value="Purchase Candy" source="x_578749_purchase">1142f90e2f426010aea9d5f62799b6ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Purchase Candy">1142f90e2f426010aea9d5f62799b6ac</sys_scope>
+            <sys_update_name>sys_documentation_x_578749_purchase_inventory__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-02 04:46:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_578749_purchase.items_user" name="x_578749_purchase.items_user">7a5835ce2f426010aea9d5f62799b622</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-02 03:20:02</sys_created_on>
+        <sys_id>365871422f826010aea9d5f62799b601</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7a5835ce2f426010aea9d5f62799b622</sys_name>
+        <sys_package display_value="Purchase Candy" source="x_578749_purchase">1142f90e2f426010aea9d5f62799b6ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Candy">1142f90e2f426010aea9d5f62799b6ac</sys_scope>
+        <sys_update_name>sys_embedded_help_role_365871422f826010aea9d5f62799b601</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-02 03:20:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

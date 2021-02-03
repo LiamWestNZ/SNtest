@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Product" max_length="40" name="x_578749_purchase_inventory" sizeclass="0" type="collection">
+        <element label="Item Name" max_length="40" name="item_name" type="string"/>
+        <element display="true" label="Price" max_length="40" name="price" type="float"/>
+        <element label="Stock No." max_length="40" name="stock_no" type="integer"/>
+    </element>
+</database>

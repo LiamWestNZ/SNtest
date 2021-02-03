@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Jellybeans">7e8cb5122f4e6010aea9d5f62799b61b</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-02 22:25:38</sys_created_on>
+        <sys_id>8c9e79922f4e6010aea9d5f62799b68a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Jellybeans.Any User</sys_name>
+        <sys_package display_value="Purchase Candy" source="x_578749_purchase">1142f90e2f426010aea9d5f62799b6ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Candy">1142f90e2f426010aea9d5f62799b6ac</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_8c9e79922f4e6010aea9d5f62799b68a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-02 22:25:38</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Purchase Candy">1142f90e2f426010aea9d5f62799b6ac</application>
+        <file_path/>
+        <instance_id>3d0296d1dbe453406578f22ebf96190c</instance_id>
+        <instance_name>dev50875</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_8c9e79922f4e6010aea9d5f62799b68a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Jellybeans">7e8cb5122f4e6010aea9d5f62799b61b</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-02 22:25:38</sys_created_on><sys_id>8c9e79922f4e6010aea9d5f62799b68a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Jellybeans.Any User</sys_name><sys_package display_value="Purchase Candy" source="x_578749_purchase">1142f90e2f426010aea9d5f62799b6ac</sys_package><sys_policy/><sys_scope display_value="Purchase Candy">1142f90e2f426010aea9d5f62799b6ac</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_8c9e79922f4e6010aea9d5f62799b68a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-02 22:25:38</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>1480488959</payload_hash>
+        <record_name>Jellybeans.Any User</record_name>
+        <reverted_from/>
+        <source>dd42f90e2f426010aea9d5f62799b6ad</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-02 22:25:38</sys_created_on>
+        <sys_id>889e79922f4e6010aea9d5f62799b68e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17764d9e8fc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-02 22:25:38</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>009e7992614e60109dd087f33763a28e</update_guid>
+        <update_guid_history>009e7992614e60109dd087f33763a28e:1480488959</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Jellybeans.Any User">90bef9922f4e6010aea9d5f62799b658</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-02 22:26:12</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>95ec8c9b13fb48a09070e5b972b5d1a1</sys_id>
+        <sys_metadata>8c9e79922f4e6010aea9d5f62799b68a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Jellybeans.Any User</sys_name>
+        <sys_package display_value="Purchase Candy" source="x_578749_purchase">1142f90e2f426010aea9d5f62799b6ac</sys_package>
+        <sys_parent display_value="">7e8cb5122f4e6010aea9d5f62799b61b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Candy">1142f90e2f426010aea9d5f62799b6ac</sys_scope>
+        <sys_scope_delete display_value="">0c179a912c4d4d05a4f75eb66b438901</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_8c9e79922f4e6010aea9d5f62799b68a</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_8c9e79922f4e6010aea9d5f62799b68a">889e79922f4e6010aea9d5f62799b68e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-02 22:26:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

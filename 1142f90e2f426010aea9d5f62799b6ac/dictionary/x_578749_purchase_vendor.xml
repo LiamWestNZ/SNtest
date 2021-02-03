@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Vendor" max_length="40" name="x_578749_purchase_vendor" sizeclass="0" type="collection">
+        <element attributes="encode_utf8=false" label="Inventory" max_length="32" name="inventory" reference="x_578749_purchase_inventory" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor" max_length="40" name="vendor" type="string"/>
+        <index name="index">
+            <element name="inventory"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Candy Request">3e5871422f826010aea9d5f62799b607</application>
+        <filter/>
+        <name>Items</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_578749_purchase.items_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-02 03:20:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3a5871422f826010aea9d5f62799b60a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Items</sys_name>
+        <sys_package display_value="Purchase Candy" source="x_578749_purchase">1142f90e2f426010aea9d5f62799b6ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Candy">1142f90e2f426010aea9d5f62799b6ac</sys_scope>
+        <sys_update_name>sys_ui_module_3a5871422f826010aea9d5f62799b60a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-02 03:20:02</sys_updated_on>
+        <table>x_578749_purchase_items</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Purchase Candy">1142f90e2f426010aea9d5f62799b6ac</application>
+        <file_path/>
+        <instance_id>3d0296d1dbe453406578f22ebf96190c</instance_id>
+        <instance_name>dev50875</instance_name>
+        <name>sys_ui_module_3a5871422f826010aea9d5f62799b60a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Candy Request">3e5871422f826010aea9d5f62799b607</application><filter/><name>Items</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_578749_purchase.items_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-02 03:20:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3a5871422f826010aea9d5f62799b60a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Items</sys_name><sys_package display_value="Purchase Candy" source="x_578749_purchase">1142f90e2f426010aea9d5f62799b6ac</sys_package><sys_policy/><sys_scope display_value="Purchase Candy">1142f90e2f426010aea9d5f62799b6ac</sys_scope><sys_update_name>sys_ui_module_3a5871422f826010aea9d5f62799b60a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-02 03:20:02</sys_updated_on><table>x_578749_purchase_items</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1494578826</payload_hash>
+        <record_name>Items</record_name>
+        <reverted_from/>
+        <source>dd42f90e2f426010aea9d5f62799b6ad</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-02 03:20:02</sys_created_on>
+        <sys_id>be5871422f826010aea9d5f62799b625</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17760c115740000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-02 03:20:02</sys_updated_on>
+        <type>Module</type>
+        <update_guid>7a587142ae826010471712626875120c</update_guid>
+        <update_guid_history>7a587142ae826010471712626875120c:1494578826</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-02 04:26:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>2b3691f470e04f4b99b15d6d7af37af9</sys_id>
+        <sys_metadata>3a5871422f826010aea9d5f62799b60a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Items</sys_name>
+        <sys_package display_value="Purchase Candy" source="x_578749_purchase">1142f90e2f426010aea9d5f62799b6ac</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Purchase Candy">1142f90e2f426010aea9d5f62799b6ac</sys_scope>
+        <sys_scope_delete display_value="">0c179a912c4d4d05a4f75eb66b438901</sys_scope_delete>
+        <sys_update_name>sys_ui_module_3a5871422f826010aea9d5f62799b60a</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_3a5871422f826010aea9d5f62799b60a">be5871422f826010aea9d5f62799b625</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-02 04:26:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
